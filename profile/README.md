@@ -2,7 +2,7 @@
 
 This organization is committed to providing typing practice for anyone interested, regardless of skill level.
 
-It does **not** intend to be an educational platform (for that, we recommend [TypingClub]). Rather, it is aimed at users who have already learned the basics and want to improve speed and/or accuracy for various purposes (e.g., programming, translation, transcription, etc.).
+It does **not** intend to be an educational platform (for that, we recommend [TypingClub]). Rather, it is aimed at users who have already learned the basics and want to improve speed and/or accuracy for specific purposes (e.g., chat, programming, transcription, etc.).
 
 [TypingClub]: https://www.edclub.com/typingclub
 
