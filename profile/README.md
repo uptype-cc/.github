@@ -2,7 +2,7 @@
 
 We are committed to providing typing practice for anyone interested, regardless of skill level.
 
-However, we do **not** aim to be an educational platform (such as [TypingClub]). Rather, we target users who have already learned the basics and want to improve their performance (e.g., speed, accuracy, coverage) for specific purposes (e.g., chat, programming, transcription).
+However, we do **not** aim to be an educational platform (such as [TypingClub]). Rather, we target users who have already learned the basics and want to improve their performance (i.e., speed, accuracy, or coverage) for specific purposes (e.g., chat, programming, transcription).
 
 [TypingClub]: https://www.edclub.com/typingclub
 
