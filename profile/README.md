@@ -4,7 +4,10 @@ We are committed to providing typing practice for anyone interested, regardless 
 
 However, we do **not** aim to be an educational platform (such as [TypingClub]). Rather, we target users who have already learned the basics and want to improve their performance (i.e., speed, accuracy, or coverage) for specific purposes (e.g., chat, programming, transcription).
 
+[Try it] for free and start improving! 🚀
+
 [TypingClub]: https://www.edclub.com/typingclub
+[Try it]: https://uptype.cc/signup
 
 <!--
 
